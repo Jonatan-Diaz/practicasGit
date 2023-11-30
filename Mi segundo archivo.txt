@@ -1,1 +1,2 @@
 Segundo archivo
+Segunda línea del segundo archivo
